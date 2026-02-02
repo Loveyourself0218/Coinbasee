@@ -1,0 +1,189 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+section {
+  display: flex;
+  padding-left: 10px;
+  background-color: white;
+  height: 5000px;
+  width: 400px;
+}
+
+a {
+  font-size: 12px;
+  margin-left: 50px;
+  color: black;
+}
+.class {
+  display: flex;
+  width: 500px;
+  height: 40px;
+  padding-top: 40px;
+}
+.image {
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.inputone {
+  height: 30px;
+  border: none;
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 100px;
+}
+
+.Signupbutton {
+  margin-left: 10px;
+  width: 100px;
+  height: 30px;
+  margin-top: 20px;
+  background-color: blue;
+  font-weight: bold;
+  color: white;
+  border-radius: 20px;
+  border-style: none;
+  cursor: pointer;
+}
+
+.icon {
+  margin-left: 10px;
+  font-size: 21px;
+  cursor: pointer;
+}
+h1 {
+  width: 250px;
+  margin-left: 15px;
+  font-family: Arial;
+}
+
+.trade {
+  margin-left: 15px;
+  line-height: 25px;
+  width: 240px;
+}
+.signup {
+  margin-left: 15px;
+}
+
+.inputtwo {
+  margin-left: 15px;
+  width: 290px;
+  height: 35px;
+  border-radius: 7px;
+}
+.button {
+  margin-top: 20px;
+  margin-left: 15px;
+  width: 300px;
+  height: 35px;
+  border-radius: 20px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.img {
+  width: 300px;
+  margin-top: 20px;
+  border-radius: 25px;
+  margin-left: 15px;
+}
+
+.description {
+  font-size: 13px;
+  width: 260px;
+  margin-left: 15px;
+  color: rgb(113, 110, 110);
+}
+
+.secimg {
+  width: 300px;
+  height: 300px;
+  margin-top: 20px;
+  margin-left: 15px;
+  border-radius: 25px;
+}
+
+h2 {
+  width: 200px;
+  margin-left: 15px;
+  color: rgb(61, 59, 59);
+}
+
+.secdescription {
+  width: 250px;
+  margin-left: 15px;
+  color: rgb(113, 110, 110);
+}
+
+.getstarted {
+  background-color: black;
+  color: white;
+  width: 150px;
+  height: 40px;
+  cursor: pointer;
+  border-radius: 20px;
+  margin-left: 15px;
+  font-weight: bold;
+}
+.predict {
+  width: 300px;
+  margin-top: 20px;
+  border-radius: 25px;
+  margin-left: 15px;
+}
+.prediction {
+  width: 310px;
+  margin-left: 15px;
+  color: rgb(96, 93, 93);
+}
+
+.learnmore {
+  width: 120px;
+  margin-left: 15px;
+  height: 40px;
+  border-radius: 25px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+.powerful {
+  width: 300px;
+  margin-left: 15px;
+  margin-top: 70px;
+  border-radius: 25px;
+}
+.powerfuldescription {
+  width: 335px;
+  color: rgb(96, 93, 93);
+  margin-left: 15px;
+}
+.start {
+  background-color: black;
+  color: white;
+  height: 35px;
+  width: 130px;
+  border-radius: 25px;
+  font-weight: bold;
+  margin-left: 15px;
+}
+
+.div {
+  width: 300px;
+  background-color: whitesmoke;
+  border-radius: 25px;
+  margin-left: 15px;
+  margin-top: 50px;
+}
+.zero {
+  width: 300px;
+}
+.coinbase {
+  margin-top: 30px;
+}
